@@ -2,7 +2,7 @@
  
 ## Reviews
 
-This is a long review on metamaterials that Dr. Haberman co-wrote. The references are extensive: https://www.nature.com/articles/s41578-020-0206-0
+This is a nice [review](https://www.nature.com/articles/s41578-020-0206-0) on metamaterials that Dr. Haberman co-wrote. The references are extensive. 
 
 ## Possible topics
 
@@ -18,5 +18,5 @@ metamaterials for lossy barriers](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu
 Please upload your most recent code here.
 
 ## Project report
-...see Overleaf
+We will write the memo and report in [Overleaf](https://www.overleaf.com/8569867689cdpfgzhjqvpq)
 
