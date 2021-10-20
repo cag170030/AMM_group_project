@@ -10,7 +10,7 @@ Here is a physics-y paper that applies the quantum mechanical phenomenon of the 
 zero refractive index](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/833/files/2018/09/Observation-of-acoustic-Dirac-like-cone-and-double.pdf)
 
 
-This is an interesting biomedical application---we could try replicating the finite element models: [Non-Hermitian complementary acoustic
+This is an interesting biomedical application of acoustic metamaterials--we could try replicating the finite element models: [Non-Hermitian complementary acoustic
 metamaterials for lossy barriers](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/833/files/2019/07/Non-Hermitian-complementary-acoustic-metamaterials-for-lossy-barriers.pdf)
 
 ## Code
