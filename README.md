@@ -2,7 +2,7 @@
  
 ## Topic
 
-Using finite element methods, we will replicate a metamaterial that features a "[Dirac cone](https://en.wikipedia.org/wiki/Dirac_cone)," a feature in the two-dimensional dispersion relation that induces a simultaneously vanishing compressibility and density (a so-called "double-zero" metamaterial). 
+Using finite element methods, we will replicate an acoustic metamaterial that features a "[Dirac cone](https://en.wikipedia.org/wiki/Dirac_cone)," a feature in the two-dimensional dispersion relation that induces a simultaneously vanishing compressibility and density (a so-called "double-zero" metamaterial). 
 
 Specifically, we will replicate the results described in the paper, "[Observation of acoustic Dirac-like cone and double
 zero refractive index](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/833/files/2018/09/Observation-of-acoustic-Dirac-like-cone-and-double.pdf)," by Marc Dubois, Chengzhi Shi, Xuefeng Zhu, Yuan Wang, and Xiang Zhang, which claims to report "the first experimental realization of an impedance matched acoustic double zero refractive index material." See [here](https://www.nature.com/articles/ncomms14871#Sec11) for supplementary information referenced in the paper.
