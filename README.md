@@ -14,7 +14,7 @@ Chirag will write the introduction and discussion, which will draw parallels bet
 
 Ryan will model the metamaterial's physical structure in SolidWorks and import the model into COMSOL. 
 
-Ryan and Akash will run the simulations in COMSOL. Ryan and Akash will calculatre the transmission coefficient at a range of frequencies and compare to figure 2f in the paper. Ryan and Akash will replicate the Dirac cone structure at various frequencies and compare to figure 4a. 
+Ryan and Akash will run the simulations in COMSOL. Ryan and Akash will calculate the transmission coefficient at a range of frequencies and compare to figure 2f in the paper. Ryan and Akash will replicate the Dirac cone structure at various frequencies and compare to figure 4a. 
 
 Ryan will explore the manufacturing limitations/errors involved in production and determine a range of errors under which the Dirac cone can still be observed.
 
