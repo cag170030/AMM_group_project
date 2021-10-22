@@ -24,7 +24,9 @@ Akash will explore how changing the unit cell geometry of the metamaterial alter
 We will write the memo and report in [Overleaf](https://www.overleaf.com/8569867689cdpfgzhjqvpq)
 
 
-<sub><sup>sdlfkj  </sup></sub>
+<sub><sup>sdlfkj 
+ 
+ </sup></sub>
 ## Other possibilities
 
 In case this project does not work out...
