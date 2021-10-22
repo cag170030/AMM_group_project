@@ -18,11 +18,13 @@ Ryan and Akash will run the simulations in COMSOL. Ryan and Akash will calculatr
 
 Ryan will explore the manufacturing limitations/errors involved in production and determine a range of errors under which the Dirac cone can still be observed.
 
+Akash will explore how changing the unit cell geometry of the metamaterial alters the Dirac cone and double-zero properties.
 
 ## Project report
 We will write the memo and report in [Overleaf](https://www.overleaf.com/8569867689cdpfgzhjqvpq)
 
 
+<sub><sup>
 ## Other possibilities
 
 In case this project does not work out...
@@ -31,3 +33,4 @@ This is a long [review](https://www.nature.com/articles/s41578-020-0206-0) on me
 
 This is an interesting biomedical application of acoustic metamaterials--we could try replicating the finite element models: [Non-Hermitian complementary acoustic
 metamaterials for lossy barriers](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/833/files/2019/07/Non-Hermitian-complementary-acoustic-metamaterials-for-lossy-barriers.pdf)
+ </sup></sub>
