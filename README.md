@@ -31,12 +31,8 @@ Please remember to add any articles that you refer to in Overleaf using the \end
 [Tunable Transmission and Deterministic Interface states in Double-zero-index Acoustic Metamaterials]()
 [](https://www.nature.com/articles/s41598-018-24773-6): This is very relevant to the original paper. They have replicated some of the data and have generalized to another geometry.
 
-
-### Articles on future directions
-
-
-
-[Dirac equation](https://en.wikipedia.org/wiki/Dirac_equation)
+### Articles on quantum mechanics & condensed-matter physics
+[Dirac equation](https://en.wikipedia.org/wiki/Dirac_equation) (We won't list this one as a reference in Overleaf because it's a Wikipedia page)
 
 [The rise of graphene](https://www.nature.com/articles/nmat1849)
 
@@ -50,14 +46,11 @@ refractive index acoustic materials](https://www.nature.com/articles/nmat3030)
 
 [On-chip zero-index metamaterials](https://www.nature.com/articles/nphoton.2015.198)
 
-
-
-
 [Nonreciprocity in acoustic and elastic
 materials](https://www.nature.com/articles/s41578-020-0206-0)
 
+### Articles on future directions & potential applications
+
 [Splitting of acoustic energy by zero index metamaterials](https://doi.org/10.1016/j.physleta.2015.07.003)
-
-
 
 [Acoustic perfect absorption and broadband insulation achieved by double-zero metamaterials](https://aip-scitation-org.ezproxy.lib.utexas.edu/doi/10.1063/1.5018180)
