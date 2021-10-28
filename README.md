@@ -22,3 +22,11 @@ Akash will explore how changing the unit cell geometry of the metamaterial alter
 
 ## Project report
 We will write the memo and report in [Overleaf](https://www.overleaf.com/8569867689cdpfgzhjqvpq).
+
+## Helpful links
+These are just links to helpful resources, not our formal list of references.
+
+[Dirac equation](https://en.wikipedia.org/wiki/Dirac_equation)
+[The rise of graphene](https://www.nature.com/articles/nmat1849)
+
+
