@@ -22,13 +22,3 @@ Akash will explore how changing the unit cell geometry of the metamaterial alter
 
 ## Project report
 We will write the memo and report in [Overleaf](https://www.overleaf.com/8569867689cdpfgzhjqvpq).
-
-## Other possibilities
-
-<sub><sup>In case this project does not work out...</sup></sub>
-
-<sub><sup>This is a long [review](https://www.nature.com/articles/s41578-020-0206-0) on metamaterials that Dr. Haberman sent me--the references are extensive. </sup></sub>
-
-<sub><sup>This is an interesting biomedical application of acoustic metamaterials--we could try replicating the finite element models: [Non-Hermitian complementary acoustic
-metamaterials for lossy barriers](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/833/files/2019/07/Non-Hermitian-complementary-acoustic-metamaterials-for-lossy-barriers.pdf)</sup></sub>
-
