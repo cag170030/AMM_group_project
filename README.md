@@ -25,7 +25,7 @@ We will write the memo and report in [Overleaf](https://www.overleaf.com/8569867
 
 ## References
 
-Please remember to add any articles that you refer to in Overleaf using the <tt>\endnote{}</tt> command.
+Please remember to add any articles that you refer to in Overleaf using the \endnote{} command.
 ### Very relevant articles 
 
 [Tunable Transmission and Deterministic Interface states in Double-zero-index Acoustic Metamaterials]()
