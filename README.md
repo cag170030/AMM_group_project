@@ -23,10 +23,41 @@ Akash will explore how changing the unit cell geometry of the metamaterial alter
 ## Project report
 We will write the memo and report in [Overleaf](https://www.overleaf.com/8569867689cdpfgzhjqvpq).
 
-## Helpful links
-These are just links to helpful resources, not our formal list of references.
+## References
+
+Please remember to add any articles that you refer to in Overleaf using the <tt>\endnote{}</tt> command.
+### Very relevant articles 
+
+[Tunable Transmission and Deterministic Interface states in Double-zero-index Acoustic Metamaterials]()
+[](https://www.nature.com/articles/s41598-018-24773-6): This is very relevant to the original paper. They have replicated some of the data and have generalized to another geometry.
+
+
+### Articles on future directions
+
+
 
 [Dirac equation](https://en.wikipedia.org/wiki/Dirac_equation)
+
 [The rise of graphene](https://www.nature.com/articles/nmat1849)
 
+[Dirac cones induced by accidental degeneracy in photonic crystals and zero-refractive-index materials](https://www.nature.com/articles/nmat3030)
 
+[Dirac cones at k=0 in acoustic crystals and zero
+refractive index acoustic materials](https://www.nature.com/articles/nmat3030)
+
+[Realization of an all-dielectric zero-index optical metamaterial
+](https://www.nature.com/articles/nphoton.2013.214/)
+
+[On-chip zero-index metamaterials](https://www.nature.com/articles/nphoton.2015.198)
+
+
+
+
+[Nonreciprocity in acoustic and elastic
+materials](https://www.nature.com/articles/s41578-020-0206-0)
+
+[Splitting of acoustic energy by zero index metamaterials](https://doi.org/10.1016/j.physleta.2015.07.003)
+
+
+
+[Acoustic perfect absorption and broadband insulation achieved by double-zero metamaterials](https://aip-scitation-org.ezproxy.lib.utexas.edu/doi/10.1063/1.5018180)
