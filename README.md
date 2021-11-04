@@ -1,28 +1,33 @@
 # Acoustic Metamaterials Group Project
  
-## Topic
+## Notes from Dr. Haberman
 
-Using finite element methods, we will replicate an acoustic metamaterial that features a "[Dirac cone](https://en.wikipedia.org/wiki/Dirac_cone)," a feature in the two-dimensional dispersion relation that induces a simultaneously vanishing compressibility and density (a so-called "double-zero" metamaterial). 
+## Timeline
 
-Specifically, we will replicate the results described in the paper, "[Observation of acoustic Dirac-like cone and double
-zero refractive index](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/833/files/2018/09/Observation-of-acoustic-Dirac-like-cone-and-double.pdf)," by Marc Dubois, Chengzhi Shi, Xuefeng Zhu, Yuan Wang, and Xiang Zhang, which claims to report "the first experimental realization of an impedance matched acoustic double zero refractive index material." See [here](https://www.nature.com/articles/ncomms14871#Sec11) for supplementary information referenced in the paper.
+### 11/06 
+C.G. derives dispersion relation; R.W. imports geometry into COMSOL.
 
+### 11/13 
+C.G. replicates figures (2a) \& (2b) and identifies Dirac point frequency; R.W., A.N. replicate figure (2f).
 
+### 11/20 
+R.W., A.N. replicate figure (4). A.N. explores different geometries.
 
-## Work distribution
-Chirag will write the introduction and discussion, which will draw parallels between quantum mechanics and acoustics. Chirag will derive the dispersion relation and numerically find the frequency at which the metamaterial hosts double-zero properties. Chirag will also discuss the potential applications of this technology.
+### 11/27
+C.G. completes QM $	\Leftrightarrow$ acoustics discussion; R.W. explores limits.
 
-Ryan will model the metamaterial's physical structure in SolidWorks and import the model into COMSOL. 
+### 12/4
+C.G. completes discussion on potential application \& future directions.    
 
-Ryan and Akash will run the simulations in COMSOL. Ryan and Akash will calculate the transmission coefficient at a range of frequencies and compare to figure 2f in the paper. Ryan and Akash will replicate the Dirac cone structure at various frequencies and compare to figure 4a. 
+### 12/11
+Term paper is completed; A.N., C.G., R.W. practice presentation.
 
-Ryan will explore the manufacturing limitations/errors involved in production and determine a range of errors under which the Dirac cone can still be observed.
-
-Akash will explore how changing the unit cell geometry of the metamaterial alters the Dirac cone and double-zero properties.
-
-## Project report
-We will write the memo and report in [Overleaf](https://www.overleaf.com/8569867689cdpfgzhjqvpq).
-
+### 12/14
+A.N., C.G., R.W. present to class and submit report on Canvas.
+ 
+ 
+ 
+ 
 ## References
 
 Please remember to add any articles that you refer to in Overleaf using the \endnote{} command.
@@ -54,3 +59,28 @@ materials](https://www.nature.com/articles/s41578-020-0206-0)
 [Splitting of acoustic energy by zero index metamaterials](https://doi.org/10.1016/j.physleta.2015.07.003)
 
 [Acoustic perfect absorption and broadband insulation achieved by double-zero metamaterials](https://aip-scitation-org.ezproxy.lib.utexas.edu/doi/10.1063/1.5018180)
+ 
+ 
+ 
+## Topic (paraphrased from memo)
+
+Using finite element methods, we will replicate an acoustic metamaterial that features a "[Dirac cone](https://en.wikipedia.org/wiki/Dirac_cone)," a feature in the two-dimensional dispersion relation that induces a simultaneously vanishing compressibility and density (a so-called "double-zero" metamaterial). 
+
+Specifically, we will replicate the results described in the paper, "[Observation of acoustic Dirac-like cone and double
+zero refractive index](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/833/files/2018/09/Observation-of-acoustic-Dirac-like-cone-and-double.pdf)," by Marc Dubois, Chengzhi Shi, Xuefeng Zhu, Yuan Wang, and Xiang Zhang, which claims to report "the first experimental realization of an impedance matched acoustic double zero refractive index material." See [here](https://www.nature.com/articles/ncomms14871#Sec11) for supplementary information referenced in the paper.
+
+
+
+## Work distribution (paraphrased from memo)
+Chirag will write the introduction and discussion, which will draw parallels between quantum mechanics and acoustics. Chirag will derive the dispersion relation and numerically find the frequency at which the metamaterial hosts double-zero properties. Chirag will also discuss the potential applications of this technology.
+
+Ryan will model the metamaterial's physical structure in SolidWorks and import the model into COMSOL. 
+
+Ryan and Akash will run the simulations in COMSOL. Ryan and Akash will calculate the transmission coefficient at a range of frequencies and compare to figure 2f in the paper. Ryan and Akash will replicate the Dirac cone structure at various frequencies and compare to figure 4a. 
+
+Ryan will explore the manufacturing limitations/errors involved in production and determine a range of errors under which the Dirac cone can still be observed.
+
+Akash will explore how changing the unit cell geometry of the metamaterial alters the Dirac cone and double-zero properties.
+
+## Project report
+We will write the memo and report in [Overleaf](https://www.overleaf.com/8569867689cdpfgzhjqvpq).
