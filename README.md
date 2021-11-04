@@ -2,27 +2,39 @@
  
 ## Notes from Dr. Haberman
 
+### Mesh
+Copy and paste the mesh for each unit cell
+
+### Figure 3a,b
+The curvature of the wavefronts in figure 3b is due to phasing, which is the normal behavior of waves in a cylindrical waveguide. The plane-wave appearance in figure 3a is due to the infinite phase speed acheived at the Dirac point. 
+
+### Ways to extend the project beyond replication of previous results
+
+Try the same model in a true 2-D geometry in COMSOL.
+
+Engineer a converging of diverging lens using this technology.
+
 ## Timeline
 
-### 11/06 
+#### 11/06 
 C.G. derives dispersion relation; R.W. imports geometry into COMSOL.
 
-### 11/13 
+#### 11/13 
 C.G. replicates figures (2a) \& (2b) and identifies Dirac point frequency; R.W., A.N. replicate figure (2f).
 
-### 11/20 
+#### 11/20 
 R.W., A.N. replicate figure (4). A.N. explores different geometries.
 
-### 11/27
+#### 11/27
 C.G. completes QM $	\Leftrightarrow$ acoustics discussion; R.W. explores limits.
 
-### 12/4
+#### 12/4
 C.G. completes discussion on potential application \& future directions.    
 
-### 12/11
+#### 12/11
 Term paper is completed; A.N., C.G., R.W. practice presentation.
 
-### 12/14
+#### 12/14
 A.N., C.G., R.W. present to class and submit report on Canvas.
  
  
@@ -35,6 +47,8 @@ Please remember to add any articles that you refer to in Overleaf using the \end
 
 [Tunable Transmission and Deterministic Interface states in Double-zero-index Acoustic Metamaterials]()
 [](https://www.nature.com/articles/s41598-018-24773-6): This is very relevant to the original paper. They have replicated some of the data and have generalized to another geometry.
+
+[Acoustic analogue of graphene: observation of Dirac cones in acoustic surface waves](https://journals-aps-org.ezproxy.lib.utexas.edu/prl/pdf/10.1103/PhysRevLett.108.174301)
 
 ### Articles on quantum mechanics & condensed-matter physics
 [Dirac equation](https://en.wikipedia.org/wiki/Dirac_equation) (We won't list this one as a reference in Overleaf because it's a Wikipedia page)
