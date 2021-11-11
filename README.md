@@ -45,8 +45,7 @@ A.N., C.G., R.W. present to class and submit report on Canvas.
 Please remember to add any articles that you refer to in Overleaf using the \endnote{} command.
 ### Very relevant articles 
 
-[Tunable Transmission and Deterministic Interface states in Double-zero-index Acoustic Metamaterials]()
-[](https://www.nature.com/articles/s41598-018-24773-6): This is very relevant to the original paper. They have replicated some of the data and have generalized to another geometry.
+[Tunable Transmission and Deterministic Interface states in Double-zero-index Acoustic Metamaterials](https://www.nature.com/articles/s41598-018-24773-6): This is very relevant to the original paper. They have replicated some of the data and have generalized to another geometry.
 
 [Acoustic analogue of graphene: observation of Dirac cones in acoustic surface waves](https://journals-aps-org.ezproxy.lib.utexas.edu/prl/pdf/10.1103/PhysRevLett.108.174301)
 
