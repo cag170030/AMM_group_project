@@ -49,6 +49,10 @@ Please remember to add any articles that you refer to in Overleaf using the \end
 
 [Acoustic analogue of graphene: observation of Dirac cones in acoustic surface waves](https://journals-aps-org.ezproxy.lib.utexas.edu/prl/pdf/10.1103/PhysRevLett.108.174301)
 
+
+[Fokin, V., Ambati, M., Sun, C., and Zhang, X., Method for retrieving effective
+properties of locally resonant acoustic metamaterials, Phys. Rev. B 76, 14432 (2007).](http://xlab.me.berkeley.edu/pdf/10.1103_PhysRevB.76.144302.pdf) 
+
 ### Articles on quantum mechanics & condensed-matter physics
 [Dirac equation](https://en.wikipedia.org/wiki/Dirac_equation) (We won't list this one as a reference in Overleaf because it's a Wikipedia page)
 
