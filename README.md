@@ -51,7 +51,9 @@ Please remember to add any articles that you refer to in Overleaf using the \end
 
 
 [Fokin, V., Ambati, M., Sun, C., and Zhang, X., Method for retrieving effective
-properties of locally resonant acoustic metamaterials, Phys. Rev. B 76, 14432 (2007).](http://xlab.me.berkeley.edu/pdf/10.1103_PhysRevB.76.144302.pdf) 
+properties of locally resonant acoustic metamaterials, Phys. Rev. B 76, 14432 (2007).](http://xlab.me.berkeley.edu/pdf/10.1103_PhysRevB.76.144302.pdf)
+
+[Ultra-sparse metasurface for high reflection of low-frequency sound based on artificial Mie resonances](https://www.nature.com/articles/nmat4393#citeas): reference for the following: "This Dirac-like cone is formed by the degeneracy of a monopolar mode and two dipolar modes. The monopolar mode modulates the effective bulk modulus and the dipolar mode affects the effective mass density".
 
 ### Articles on quantum mechanics & condensed-matter physics
 [Dirac equation](https://en.wikipedia.org/wiki/Dirac_equation) (We won't list this one as a reference in Overleaf because it's a Wikipedia page)
