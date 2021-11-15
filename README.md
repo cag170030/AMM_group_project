@@ -1,18 +1,13 @@
 # Acoustic Metamaterials Group Project
+
  
-## Notes from Dr. Haberman
+## Topic (paraphrased from memo)
 
-### Mesh
-Copy and paste the mesh for each unit cell
+Using finite element methods, we will replicate an acoustic metamaterial that features a "[Dirac cone](https://en.wikipedia.org/wiki/Dirac_cone)," a feature in the two-dimensional dispersion relation that induces a simultaneously vanishing compressibility and density (a so-called "double-zero" metamaterial). 
 
-### Figure 3a,b
-The curvature of the wavefronts in figure 3b is due to phasing, which is the normal behavior of waves in a cylindrical waveguide. The plane-wave appearance in figure 3a is due to the infinite phase speed acheived at the Dirac point. 
+Specifically, we will replicate the results described in the paper, "[Observation of acoustic Dirac-like cone and double
+zero refractive index](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/833/files/2018/09/Observation-of-acoustic-Dirac-like-cone-and-double.pdf)," by Marc Dubois, Chengzhi Shi, Xuefeng Zhu, Yuan Wang, and Xiang Zhang, which claims to report "the first experimental realization of an impedance matched acoustic double zero refractive index material." See [here](https://www.nature.com/articles/ncomms14871#Sec11) for supplementary information referenced in the paper.
 
-### Ways to extend the project beyond replication of previous results
-
-Try the same model in a true 2-D geometry in COMSOL.
-
-Engineer a converging of diverging lens using this technology.
 
 ## Timeline
 
@@ -45,25 +40,30 @@ A.N., C.G., R.W. present to class and submit report on Canvas.
 Please remember to add any articles that you refer to in Overleaf using the \endnote{} command.
 ### Very relevant articles 
 
-[Tunable Transmission and Deterministic Interface states in Double-zero-index Acoustic Metamaterials](https://www.nature.com/articles/s41598-018-24773-6): This is very relevant to the original paper. They have replicated some of the data and have generalized to another geometry.
+[Tunable Transmission and Deterministic Interface states in Double-zero-index Acoustic Metamaterials](https://www.nature.com/articles/s41598-018-24773-6): This is very relevant to the original paper. They have replicated some of the data and have generalized to a triangular lattice geometry (Akash)
 
-[Acoustic analogue of graphene: observation of Dirac cones in acoustic surface waves](https://journals-aps-org.ezproxy.lib.utexas.edu/prl/pdf/10.1103/PhysRevLett.108.174301)
-
+[Acoustic analogue of graphene: observation of Dirac cones in acoustic surface waves](https://journals-aps-org.ezproxy.lib.utexas.edu/prl/pdf/10.1103/PhysRevLett.108.174301): This was Dr. Haberman's suggestion (Chirag) 
 
 [Fokin, V., Ambati, M., Sun, C., and Zhang, X., Method for retrieving effective
-properties of locally resonant acoustic metamaterials, Phys. Rev. B 76, 14432 (2007).](http://xlab.me.berkeley.edu/pdf/10.1103_PhysRevB.76.144302.pdf)
+properties of locally resonant acoustic metamaterials, Phys. Rev. B 76, 14432 (2007).](http://xlab.me.berkeley.edu/pdf/10.1103_PhysRevB.76.144302.pdf) (Ryan & Chirag)
 
-[Ultra-sparse metasurface for high reflection of low-frequency sound based on artificial Mie resonances](https://www.nature.com/articles/nmat4393#citeas): reference for the following: "This Dirac-like cone is formed by the degeneracy of a monopolar mode and two dipolar modes. The monopolar mode modulates the effective bulk modulus and the dipolar mode affects the effective mass density".
 
-### Articles on quantum mechanics & condensed-matter physics
-[Dirac equation](https://en.wikipedia.org/wiki/Dirac_equation) (We won't list this one as a reference in Overleaf because it's a Wikipedia page)
-
-[The rise of graphene](https://www.nature.com/articles/nmat1849)
+### Articles on quantum mechanics & condensed-matter physics (Chirag)
+#### Main resources
 
 [Dirac cones induced by accidental degeneracy in photonic crystals and zero-refractive-index materials](https://www.nature.com/articles/nmat3030)
 
 [Dirac cones at k=0 in acoustic crystals and zero
 refractive index acoustic materials](https://www.nature.com/articles/nmat3030)
+
+[Realization of Dirac point with
+double cones in optics](https://www.osapublishing.org/DirectPDFAccess/3E08FA9E-23C6-4A1B-80FC6BD5A8C88CB3_179450/ol-34-10-1510.pdf?da=1&id=179450&seq=0&mobile=no)
+
+[Ultra-sparse metasurface for high reflection of low-frequency sound based on artificial Mie resonances](https://www.nature.com/articles/nmat4393#citeas): reference for the following: "This Dirac-like cone is formed by the degeneracy of a monopolar mode and two dipolar modes. The monopolar mode modulates the effective bulk modulus and the dipolar mode affects the effective mass density". (Chirag)
+
+#### Others...
+
+[The rise of graphene](https://www.nature.com/articles/nmat1849)
 
 [Realization of an all-dielectric zero-index optical metamaterial
 ](https://www.nature.com/articles/nphoton.2013.214/)
@@ -80,15 +80,6 @@ materials](https://www.nature.com/articles/s41578-020-0206-0)
 [Acoustic perfect absorption and broadband insulation achieved by double-zero metamaterials](https://aip-scitation-org.ezproxy.lib.utexas.edu/doi/10.1063/1.5018180)
  
  
- 
-## Topic (paraphrased from memo)
-
-Using finite element methods, we will replicate an acoustic metamaterial that features a "[Dirac cone](https://en.wikipedia.org/wiki/Dirac_cone)," a feature in the two-dimensional dispersion relation that induces a simultaneously vanishing compressibility and density (a so-called "double-zero" metamaterial). 
-
-Specifically, we will replicate the results described in the paper, "[Observation of acoustic Dirac-like cone and double
-zero refractive index](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/833/files/2018/09/Observation-of-acoustic-Dirac-like-cone-and-double.pdf)," by Marc Dubois, Chengzhi Shi, Xuefeng Zhu, Yuan Wang, and Xiang Zhang, which claims to report "the first experimental realization of an impedance matched acoustic double zero refractive index material." See [here](https://www.nature.com/articles/ncomms14871#Sec11) for supplementary information referenced in the paper.
-
-
 
 ## Work distribution (paraphrased from memo)
 Chirag will write the introduction and discussion, which will draw parallels between quantum mechanics and acoustics. Chirag will derive the dispersion relation and numerically find the frequency at which the metamaterial hosts double-zero properties. Chirag will also discuss the potential applications of this technology.
@@ -103,3 +94,18 @@ Akash will explore how changing the unit cell geometry of the metamaterial alter
 
 ## Project report
 We will write the memo and report in [Overleaf](https://www.overleaf.com/8569867689cdpfgzhjqvpq).
+
+## Notes from Dr. Haberman
+
+### Mesh
+Copy and paste the mesh for each unit cell
+
+### Figure 3a,b
+The curvature of the wavefronts in figure 3b is due to phasing, which is the normal behavior of waves in a cylindrical waveguide. The plane-wave appearance in figure 3a is due to the infinite phase speed acheived at the Dirac point. 
+
+### Ways to extend the project beyond replication of previous results
+
+Try the same model in a true 2-D geometry in COMSOL.
+
+Engineer a converging of diverging lens using this technology.
+
