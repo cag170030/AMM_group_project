@@ -42,10 +42,16 @@ Please remember to add any articles that you refer to in Overleaf using the \end
 
 [Tunable Transmission and Deterministic Interface states in Double-zero-index Acoustic Metamaterials](https://www.nature.com/articles/s41598-018-24773-6): This is very relevant to the original paper. They have replicated some of the data and have generalized to a triangular lattice geometry (Akash)
 
-[Acoustic analogue of graphene: observation of Dirac cones in acoustic surface waves](https://journals-aps-org.ezproxy.lib.utexas.edu/prl/pdf/10.1103/PhysRevLett.108.174301): This was Dr. Haberman's suggestion (Chirag) 
+[Dirac cones at k=0 in acoustic crystals and zero
+refractive index acoustic materials](https://www.nature.com/articles/nmat3030)
+
 
 [Fokin, V., Ambati, M., Sun, C., and Zhang, X., Method for retrieving effective
 properties of locally resonant acoustic metamaterials, Phys. Rev. B 76, 14432 (2007).](http://xlab.me.berkeley.edu/pdf/10.1103_PhysRevB.76.144302.pdf) (Ryan & Chirag)
+
+
+[Acoustic analogue of graphene: observation of Dirac cones in acoustic surface waves](https://journals-aps-org.ezproxy.lib.utexas.edu/prl/pdf/10.1103/PhysRevLett.108.174301): This was Dr. Haberman's suggestion (Chirag) 
+
 
 
 ### Articles on quantum mechanics & condensed-matter physics (Chirag)
@@ -53,8 +59,6 @@ properties of locally resonant acoustic metamaterials, Phys. Rev. B 76, 14432 (2
 
 [Dirac cones induced by accidental degeneracy in photonic crystals and zero-refractive-index materials](https://www.nature.com/articles/nmat3030)
 
-[Dirac cones at k=0 in acoustic crystals and zero
-refractive index acoustic materials](https://www.nature.com/articles/nmat3030)
 
 [Realization of Dirac point with
 double cones in optics](https://www.osapublishing.org/DirectPDFAccess/3E08FA9E-23C6-4A1B-80FC6BD5A8C88CB3_179450/ol-34-10-1510.pdf?da=1&id=179450&seq=0&mobile=no)
