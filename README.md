@@ -63,7 +63,7 @@ properties of locally resonant acoustic metamaterials, Phys. Rev. B 76, 14432 (2
 [Realization of Dirac point with
 double cones in optics](https://www.osapublishing.org/DirectPDFAccess/3E08FA9E-23C6-4A1B-80FC6BD5A8C88CB3_179450/ol-34-10-1510.pdf?da=1&id=179450&seq=0&mobile=no)
 
-[Ultra-sparse metasurface for high reflection of low-frequency sound based on artificial Mie resonances](https://www.nature.com/articles/nmat4393#citeas): reference for the following: "This Dirac-like cone is formed by the degeneracy of a monopolar mode and two dipolar modes. The monopolar mode modulates the effective bulk modulus and the dipolar mode affects the effective mass density". (Chirag)
+
 
 #### Others...
 
@@ -75,7 +75,7 @@ double cones in optics](https://www.osapublishing.org/DirectPDFAccess/3E08FA9E-2
 [On-chip zero-index metamaterials](https://www.nature.com/articles/nphoton.2015.198)
 
 [Nonreciprocity in acoustic and elastic
-materials](https://www.nature.com/articles/s41578-020-0206-0)
+materials](https://www.nature.com/articles/s41578-020-0206-0) (Haberman's long review)
 
 ### Articles on future directions & potential applications
 
